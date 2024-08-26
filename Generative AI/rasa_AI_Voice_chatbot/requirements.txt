@@ -1,0 +1,5 @@
+rasa
+gtts
+playsound
+speech_recognition
+pydub

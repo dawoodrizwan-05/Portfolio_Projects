@@ -1,0 +1,12 @@
+Running the Project
+Start the Rasa server and action server:
+
+bash
+Copy code
+rasa run actions
+rasa run
+Run the speech input script:
+
+bash
+Copy code
+python scripts/speech_input.py
